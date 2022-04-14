@@ -9,4 +9,6 @@ CLIENT
 
 FETCHING DATA
 
--
+- using axios (to reach the backend)
+- async await (to wait for the response)
+- try catch (to catch errors if they occur)
