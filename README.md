@@ -2,10 +2,14 @@
 
 # Web Architecture - Clients
 
-## URL address
-- what does it do?
+## URL address - what is it good for?
 
-## The holy trinity 
+- HTTP (Hypertext Transfer Protocol)
+- FTP (File Transfer Protocol) 
+- SMTP (Simple Mail Transfer Protocol)
+
+
+## The Holy Trinity 
 <p>
   <img src="https://user-images.githubusercontent.com/31222514/149812547-405716a0-b974-4da4-b749-f2b4a8adc1d8.png" width="8%" alt="Javascript logo">
   <img src="https://user-images.githubusercontent.com/31222514/149813532-e214a55c-9b91-4b71-bb17-0dcf18903f7a.png" width="8%" alt="CSS logo">
