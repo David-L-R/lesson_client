@@ -5,7 +5,7 @@
 ## URL address - what is it good for?
 
 - TCP/IP - A house visit
-- HTTP (Hypertext Transfer Protocol)
+- **HTTP** (Hypertext Transfer Protocol)
 - FTP (File Transfer Protocol) 
 - SMTP (Simple Mail Transfer Protocol)
 
