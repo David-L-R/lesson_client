@@ -22,7 +22,7 @@ When a browser requests a page, the web server sends back:
   - CSS (style of a page)
   - JS (logic of a page)
 
-![php](https://user-images.githubusercontent.com/31222514/169249260-4e499806-80cb-4231-9aff-82d4a7553441.png)
+<img src="https://user-images.githubusercontent.com/31222514/169249260-4e499806-80cb-4231-9aff-82d4a7553441.png" alt="php logo" width="15%" />
 
 # Fetching Data
 
